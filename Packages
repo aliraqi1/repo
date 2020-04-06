@@ -10,4 +10,15 @@ MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
 Description: This is a sample new package. Firmware should be greater than 7.0
 Name: New Package
 Author: aliraqi1 <alhsnawi0@gmail.com>
+
 Depiction: https://github.com/aliraqi1/repo/depictions/?p=com.aliraqi1.newpackage
+Package: com.aliraqi1.newpackage
+Version: 2.0.0-1
+Section: Tweaks
+Maintainer: aliraqi1 <alhsnawi9@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.aliraqi1.successionrestore_1.4.6-1.deb
+Depiction: https://github.com/aliraqi1/repo/depictions/?p=com.aliraqi1.newpackage
+Size: 1029
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
